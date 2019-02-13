@@ -1,10 +1,10 @@
 {
-  "main.css": "/static/css/main.ed574fee.css",
-  "main.js": "/static/js/main.2b8ffce7.js",
-  "main.css.map": "/static/css/main.ed574fee.css.map",
-  "main.js.map": "/static/js/main.2b8ffce7.js.map",
-  "static/media/loadingIcon.svg": "/static/media/loadingIcon.f6995268.svg",
+  "main.css": "/static/css/main.bd1388c9.css",
+  "main.js": "/static/js/main.8cc74841.js",
+  "main.css.map": "/static/css/main.bd1388c9.css.map",
+  "main.js.map": "/static/js/main.8cc74841.js.map",
+  "static/media/index.css": "/static/media/roboto-latin-900.19b7a0ad.woff2",
   "index.html": "/index.html",
-  "precache-manifest.0df90d9029d4c4873f09fd8bc35609a8.js": "/precache-manifest.0df90d9029d4c4873f09fd8bc35609a8.js",
+  "precache-manifest.29a655bd2f2a3f5d21b34b2498e87b73.js": "/precache-manifest.29a655bd2f2a3f5d21b34b2498e87b73.js",
   "service-worker.js": "/service-worker.js"
 }
