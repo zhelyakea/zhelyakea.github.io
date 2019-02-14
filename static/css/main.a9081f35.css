@@ -57,6 +57,14 @@
   border-bottom: .1vw solid rgba(0, 0, 0, 0.4);
 }
 
+.mosaic-capture__capture-wrapper {
+  width: 40vw;
+  padding: 2vw; }
+
+.mosaic-capture__capture {
+  width: 100%;
+  height: auto; }
+
 /* roboto-100normal - latin */
 @font-face {
   font-family: 'Roboto';
@@ -215,4 +223,4 @@
 
 
 
-/*# sourceMappingURL=main.bd1388c9.css.map*/
+/*# sourceMappingURL=main.a9081f35.css.map*/
